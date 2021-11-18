@@ -1,0 +1,64 @@
+[INFO ] 2021-11-18 09:18:51.087 [main] Application - Start
+[INFO ] 2021-11-18 09:18:51.099 [Car - 8] Car - The car 8 drove to parking with TimeWaiting = 35 
+[INFO ] 2021-11-18 09:18:51.100 [Car - 9] Car - The car 9 drove to parking with TimeWaiting = 2 
+[INFO ] 2021-11-18 09:18:51.100 [Car - 4] Car - The car 4 drove to parking with TimeWaiting = 16 
+[INFO ] 2021-11-18 09:18:51.101 [Car - 2] Car - The car 2 drove to parking with TimeWaiting = 2 
+[INFO ] 2021-11-18 09:18:51.099 [Car - 3] Car - The car 3 drove to parking with TimeWaiting = 11 
+[INFO ] 2021-11-18 09:18:51.100 [Car - 6] Car - The car 6 drove to parking with TimeWaiting = 38 
+[INFO ] 2021-11-18 09:18:51.099 [Car - 5] Car - The car 5 drove to parking with TimeWaiting = 43 
+[INFO ] 2021-11-18 09:18:51.100 [Car - 1] Car - The car 1 drove to parking with TimeWaiting = 14 
+[INFO ] 2021-11-18 09:18:51.100 [Car - 10] Car - The car 10 drove to parking with TimeWaiting = 68 
+[INFO ] 2021-11-18 09:18:51.100 [Car - 7] Car - The car 7 drove to parking with TimeWaiting = 51 
+[INFO ] 2021-11-18 09:18:51.103 [Car - 3] Car - The car 3 parked on the place 2
+[INFO ] 2021-11-18 09:18:51.103 [Car - 8] Car - The car 8 parked on the place 1
+[INFO ] 2021-11-18 09:18:51.103 [Car - 4] Car - The car 4 parked on the place 3
+[INFO ] 2021-11-18 09:18:51.103 [Car - 2] Car - The car 2 parked on the place 4
+[INFO ] 2021-11-18 09:18:51.103 [Car - 9] Car - The car 9 parked on the place 5
+[INFO ] 2021-11-18 09:18:51.117 [Car - 1] Car - The car 1 left the parking without parking
+[INFO ] 2021-11-18 09:18:51.141 [Car - 6] Car - The car 6 left the parking without parking
+[INFO ] 2021-11-18 09:18:51.146 [Car - 5] Car - The car 5 left the parking without parking
+[INFO ] 2021-11-18 09:18:51.153 [Car - 8] Car - The car 8 left the place 1
+[INFO ] 2021-11-18 09:18:51.153 [Car - 7] Car - The car 7 parked on the place 1
+[INFO ] 2021-11-18 09:18:51.154 [Car - 2] Car - The car 2 left the place 4
+[INFO ] 2021-11-18 09:18:51.154 [Car - 10] Car - The car 10 parked on the place 4
+[INFO ] 2021-11-18 09:18:51.170 [Car - 3] Car - The car 3 exchange place on 3.
+[INFO ] 2021-11-18 09:18:51.170 [Car - 4] Car - The car 4 exchange place on 2.
+[INFO ] 2021-11-18 09:18:51.176 [Car - 3] Car - The car 3 left the place 3
+[INFO ] 2021-11-18 09:18:51.198 [Car - 4] Car - The car 4 left the place 2
+[INFO ] 2021-11-18 09:18:51.217 [Car - 7] Car - The car 7 left the place 1
+[INFO ] 2021-11-18 09:18:51.280 [Car - 9] Car - The car 9 left the place 5
+[INFO ] 2021-11-18 09:18:51.928 [Car - 10] Car - The car 10 left the place 4
+[INFO ] 2021-11-18 09:19:44.717 [main] Application - Start
+[INFO ] 2021-11-18 09:19:44.731 [Car - 3] Car - The car 3 drove to parking with TimeWaiting = 42 
+[INFO ] 2021-11-18 09:19:44.731 [Car - 8] Car - The car 8 drove to parking with TimeWaiting = 34 
+[INFO ] 2021-11-18 09:19:44.732 [Car - 12] Car - The car 12 drove to parking with TimeWaiting = 5 
+[INFO ] 2021-11-18 09:19:44.733 [Car - 4] Car - The car 4 drove to parking with TimeWaiting = 26 
+[INFO ] 2021-11-18 09:19:44.733 [Car - 11] Car - The car 11 drove to parking with TimeWaiting = 5 
+[INFO ] 2021-11-18 09:19:44.733 [Car - 2] Car - The car 2 drove to parking with TimeWaiting = 10 
+[INFO ] 2021-11-18 09:19:44.735 [Car - 10] Car - The car 10 drove to parking with TimeWaiting = 27 
+[INFO ] 2021-11-18 09:19:44.739 [Car - 3] Car - The car 3 parked on the place 1
+[INFO ] 2021-11-18 09:19:44.738 [Car - 6] Car - The car 6 drove to parking with TimeWaiting = 21 
+[INFO ] 2021-11-18 09:19:44.739 [Car - 11] Car - The car 11 parked on the place 2
+[INFO ] 2021-11-18 09:19:44.737 [Car - 5] Car - The car 5 drove to parking with TimeWaiting = 40 
+[INFO ] 2021-11-18 09:19:44.737 [Car - 1] Car - The car 1 drove to parking with TimeWaiting = 61 
+[INFO ] 2021-11-18 09:19:44.736 [Car - 9] Car - The car 9 drove to parking with TimeWaiting = 45 
+[INFO ] 2021-11-18 09:19:44.740 [Car - 8] Car - The car 8 parked on the place 3
+[INFO ] 2021-11-18 09:19:44.736 [Car - 7] Car - The car 7 drove to parking with TimeWaiting = 53 
+[INFO ] 2021-11-18 09:19:44.740 [Car - 12] Car - The car 12 parked on the place 4
+[INFO ] 2021-11-18 09:19:44.740 [Car - 4] Car - The car 4 parked on the place 5
+[INFO ] 2021-11-18 09:19:44.744 [Car - 2] Car - The car 2 left the parking without parking
+[INFO ] 2021-11-18 09:19:44.762 [Car - 12] Car - The car 12 exchange place on 3.
+[INFO ] 2021-11-18 09:19:44.762 [Car - 8] Car - The car 8 exchange place on 4.
+[INFO ] 2021-11-18 09:19:44.762 [Car - 6] Car - The car 6 left the parking without parking
+[INFO ] 2021-11-18 09:19:44.766 [Car - 8] Car - The car 8 left the place 4
+[INFO ] 2021-11-18 09:19:44.766 [Car - 10] Car - The car 10 parked on the place 4
+[INFO ] 2021-11-18 09:19:44.781 [Car - 5] Car - The car 5 left the parking without parking
+[INFO ] 2021-11-18 09:19:44.786 [Car - 9] Car - The car 9 left the parking without parking
+[INFO ] 2021-11-18 09:19:44.794 [Car - 7] Car - The car 7 left the parking without parking
+[INFO ] 2021-11-18 09:19:44.800 [Car - 12] Car - The car 12 left the place 3
+[INFO ] 2021-11-18 09:19:44.800 [Car - 1] Car - The car 1 parked on the place 3
+[INFO ] 2021-11-18 09:19:44.873 [Car - 4] Car - The car 4 left the place 5
+[INFO ] 2021-11-18 09:19:44.900 [Car - 11] Car - The car 11 left the place 2
+[INFO ] 2021-11-18 09:19:44.911 [Car - 3] Car - The car 3 left the place 1
+[INFO ] 2021-11-18 09:19:44.929 [Car - 10] Car - The car 10 left the place 4
+[INFO ] 2021-11-18 09:19:45.590 [Car - 1] Car - The car 1 left the place 3

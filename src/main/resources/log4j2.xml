@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="info">
+
+    <Appenders>
+        <File name="file" fileName="Application.log">
+            <PatternLayout pattern="[%-5level] %d{yyyy-MM-dd HH:mm:ss.SSS} [%t] %c{1} - %msg%n"/>
+        </File>
+      </Appenders>
+    
+    <Loggers>
+        <Logger name="by.pokumeiko.Application" level="info" additivity="false">
+            <AppenderRef ref="file"/>
+        </Logger>
+        <Logger name="by.pokumeiko.Car" level="info" additivity="false">
+            <AppenderRef ref="file"/>
+        </Logger>
+         <Logger name="by.pokumeiko.Parking" level="info" additivity="false">
+            <AppenderRef ref="file"/>
+        </Logger>
+        <Root level="warn">
+             <AppenderRef ref="file"/>
+        </Root>
+     </Loggers>
+     
+</Configuration>
